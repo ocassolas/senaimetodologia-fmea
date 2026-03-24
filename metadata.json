@@ -1,0 +1,5 @@
+{
+  "name": "Sistema FMEA Industrial",
+  "description": "Gerenciamento de Failure Mode and Effects Analysis para processos industriais com cálculo automático de NPR e dashboard de riscos.",
+  "requestFramePermissions": []
+}
